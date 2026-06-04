@@ -242,7 +242,6 @@ display: inline-block;
 
    
 }
-lacosa:last-child
 .criticas h2{
     margin-top: 3%;
     margin-left:30%;
@@ -283,6 +282,7 @@ lacosa:last-child
 .forms{
     margin-top: 5%;
     clear: both;
+    background-color:#9ec9dd;
 }
 
 .forms form p{
@@ -311,9 +311,15 @@ lacosa:last-child
 .forms form button:hover{
     background-color: #a1b4ce ;
 }
-footer{
 
+
+.iframes iframe{
+    margin-left: 35%;
+    margin-top: 2%;
 }
-.iframes:last-child{
-    
+.iframes h1
+{
+    text-align: center;
+    text-decoration: underline;
+margin-top: 2%;
 }
